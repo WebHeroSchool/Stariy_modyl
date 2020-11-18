@@ -1,3 +1,6 @@
+body {
+  font-family: Roboto;
+}
 .main__h1 {
   color: red;
   font-size: 30px;
@@ -7,6 +10,7 @@
   text-decoration: underline;
   text-decoration-color: darkblue;
   text-decoration-style: double;
+  font-family: Playfair Display;
   }
 .header__description {
   background: black;
